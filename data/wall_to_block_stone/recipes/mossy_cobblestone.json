@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "XXX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:mossy_cobblestone_wall"
+        }
+    },
+    "result": {
+        "item": "minecraft:mossy_cobblestone",
+        "count": 6
+    }
+}
