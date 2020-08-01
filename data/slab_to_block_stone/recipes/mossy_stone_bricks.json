@@ -6,11 +6,11 @@
     ],
     "key": {
         "X": {
-            "item": "minecraft:polished_blackstone_brick_slab"
+            "item": "minecraft:mossy_stone_brick_slab"
         }
     },
     "result": {
-        "item": "minecraft:polished_blackstone_brick",
+        "item": "minecraft:mossy_stone_bricks",
         "count": 3
     }
 }
